@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 
-<p align="center">
+<p align="left">
  <a href="https://tinyurl.com/y87qtpjh"> <img src="https://cdn.pixabay.com/photo/2016/11/30/17/10/web-1873373_960_720.png" alt="website" height="20" style="vertical-align:top; margin:4px"> </a>
  <a href="https://stackoverflow.com/users/11951722/micha" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" height="20" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ## 🧰 Languages and Tools:
-<p align="center">
+<p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular" height="40" style="vertical-align:top; margin:4px">
